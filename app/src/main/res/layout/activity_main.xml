@@ -22,7 +22,7 @@
         android:layout_columnSpan="2"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="00:00:00"
+        android:text="@string/default_timer"
         android:textColor="@color/black"
         android:textSize="50sp"
         android:textStyle="bold"
